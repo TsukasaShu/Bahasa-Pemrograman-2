@@ -2,6 +2,7 @@
 
 **Ini Merupakan Tugas Pertemuan 6 Yang Dimana Membuat Program Untuk Perkalian Matriks (5×5)**
 
+Yang dimana 
 ## Matriks 1 (5×5)
 ```python
 [1, 4, 7, 2, 5]
@@ -10,13 +11,13 @@
 [6, 8, 2, 3, 2]
 [3, 1, 6, 7, 7]
 ```
-
+Dikalikan dengan
 ## Matriks 2 (5×5)
 ```python
-[2, 4, 7, 2, 5],
-[3, 8, 3, 5, 1],
-[8, 2, 4, 5, 2],
-[1, 9, 2, 8, 5],
+[2, 4, 7, 2, 5]
+[3, 8, 3, 5, 1]
+[8, 2, 4, 5, 2]
+[1, 9, 2, 8, 5]
 [4, 6, 1, 2, 7]
 ```
 
