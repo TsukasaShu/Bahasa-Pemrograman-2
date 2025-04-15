@@ -1,6 +1,6 @@
 # Perkalian Matriks (5×5)
 
-** Ini Merupakan Tugas Pertemuan 6 Yang Dimana Membuat Program Untuk Perkalian Matriks (5×5)**
+**Ini Merupakan Tugas Pertemuan 6 Yang Dimana Membuat Program Untuk Perkalian Matriks (5×5)**
 
 ## Matriks 1 (5×5)
 ```python
