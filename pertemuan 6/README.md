@@ -11,6 +11,7 @@ Yang dimana
 [6, 8, 2, 3, 2]
 [3, 1, 6, 7, 7]
 ```
+
 Dikalikan dengan
 ## Matriks 2 (5×5)
 ```python
@@ -21,6 +22,7 @@ Dikalikan dengan
 [4, 6, 1, 2, 7]
 ```
 
+Didapatkan hasil
 ## Hasil Matriks (5×5)
 ```python
 [92, 98, 56, 83, 68]     
